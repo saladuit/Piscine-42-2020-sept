@@ -1,0 +1,8 @@
+norminette -R CheckForbiddenSourceHeader
+gcc -Wall -Wextra -Werror
+
+Terminal mods
+PS1 = terminal variable
+Export PS1="[%~]$ "
+Source file om het ingeladen.
+ 
